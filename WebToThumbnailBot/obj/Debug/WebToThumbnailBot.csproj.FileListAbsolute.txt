@@ -1,0 +1,43 @@
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Bot Application.dll.config
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Bot Application.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Bot Application.pdb
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Autofac.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Chronic.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Bot.Builder.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Bot.Connector.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Newtonsoft.Json.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.Net.Http.Formatting.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.Web.Http.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.Web.Http.WebHost.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Autofac.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Bot.Builder.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.Bot.Connector.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\Newtonsoft.Json.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.Net.Http.Formatting.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.Web.Http.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\System.Web.Http.WebHost.xml
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\obj\Debug\WebToThumbnailBot.csproj.CoreCompileInputs.cache
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\obj\Debug\Bot Application.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\obj\Debug\Bot Application.pdb
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\bin\RestSharp.dll
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\obj\Debug\WebToThumbnailBot.csprojAssemblyReference.cache
+E:\Bot\WebToThumbnailBot\WebToThumbnailBot\obj\Debug\WebToThumbnailBot.csproj.CopyComplete
